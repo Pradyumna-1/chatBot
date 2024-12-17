@@ -7,8 +7,11 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-![Chatbot Screenshot](https://drive.google.com/file/d/1-t3Sm7rkHqw-rDeZGy4tmQTn0DNXae0C/view?usp=sharing](https://drive.google.com/file/d/1-t3Sm7rkHqw-rDeZGy4tmQTn0DNXae0C/view?usp=sharing))
+[!Chatbot Screenshot]([https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif](https://drive.google.com/file/d/1-t3Sm7rkHqw-rDeZGy4tmQTn0DNXae0C/view?usp=sharing))]
 E-Commerce Sales Chatbot
+
+
+
 
 Overview
 
