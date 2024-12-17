@@ -8,8 +8,9 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 # E-Commerce Sales Chatbot
+# E-Commerce Sales Chatbot
 
-![Chatbot Screenshot](./public/image.png)
+![Chatbot Screenshot](https://raw.githubusercontent.com/your-username/your-repository-name/main/public/image.png)
 
 ## Overview
 
@@ -45,6 +46,9 @@ This project involves the development of an **E-commerce Sales Chatbot** designe
 ### Backend Setup:
 
 1. **Install Dependencies**: Ensure that you have Python 3.x installed. Then run the following command to install the necessary dependencies:
+
+```bash
+python3 -m pip install flask flask-cors
 
 ```bash
 python3 -m pip install flask flask-cors
