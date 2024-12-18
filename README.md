@@ -63,11 +63,11 @@ This project involves the development of an **E-commerce Sales Chatbot** designe
    npm start
    The frontend will run at http://localhost:3000.
 ```
-Running the Project:
+## Running the Project:
 • Ensure both the backend (Flask) and frontend (ReactJS) servers are running simultaneously.
 • Open your browser and navigate to http://localhost:3000 to interact with the chatbot.
 
-Challenges Faced & Solutions:
+## Challenges Faced & Solutions:
 
 • Handling CORS Issues: Initially, the frontend couldn't communicate with the backend due to CORS restrictions. This issue was resolved by implementing Flask-CORS middleware on the backend, which enabled proper cross-origin requests.
 
