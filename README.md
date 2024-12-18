@@ -34,7 +34,7 @@ This project involves the development of an **E-commerce Sales Chatbot** designe
 1. **Install Dependencies**: Ensure that you have Python 3.x installed. Then run the following command to install the necessary dependencies:
 
 ## Backend Setup:
-
+```bash
 1. Install Dependencies: Ensure that you have Python 3.x installed. Then run the following command to install the necessary dependencies:
    bash
    Copy code
@@ -44,9 +44,9 @@ This project involves the development of an **E-commerce Sales Chatbot** designe
    Copy code
    python app.py
    The backend server will run at http://127.0.0.1:5000.
-
+```
 ## Frontend Setup:
-
+```bash
 1. Navigate to the Frontend Directory:
    bash
    Copy code
@@ -62,7 +62,7 @@ This project involves the development of an **E-commerce Sales Chatbot** designe
    Copy code
    npm start
    The frontend will run at http://localhost:3000.
-
+```
 Running the Project:
 • Ensure both the backend (Flask) and frontend (ReactJS) servers are running simultaneously.
 • Open your browser and navigate to http://localhost:3000 to interact with the chatbot.
