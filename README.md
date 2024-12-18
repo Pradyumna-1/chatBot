@@ -69,9 +69,9 @@ This project involves the development of an **E-commerce Sales Chatbot** designe
 
 ## Challenges Faced & Solutions:
 
-• Handling CORS Issues: Initially, the frontend couldn't communicate with the backend due to CORS restrictions. 
+• Handling CORS Issues: Initially, the frontend couldn't communicate with the backend due to CORS restrictions. <br>
 • This issue was resolved by implementing Flask-CORS middleware on the backend, which enabled proper cross-origin requests.
 
-• Product Search Logic: Filtering products by full name or starting letter posed a challenge in how the queries were processed. 
-• The solution was to implement string matching logic in the backend to handle both full-name and partial matches efficiently. 
+• Product Search Logic: Filtering products by full name or starting letter posed a challenge in how the queries were processed. <br>
+• The solution was to implement string matching logic in the backend to handle both full-name and partial matches efficiently. <br>
 • This ensures that the chatbot returns relevant products even with partial queries from the user.
