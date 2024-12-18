@@ -31,17 +31,9 @@ This project involves the development of an **E-commerce Sales Chatbot** designe
 
 ## Installation & Setup
 
-### Backend Setup:
-
 1. **Install Dependencies**: Ensure that you have Python 3.x installed. Then run the following command to install the necessary dependencies:
 
-```bash
-python3 -m pip install flask flask-cors
-
-```bash
-python3 -m pip install flask flask-cors
-
-Backend Setup:
+## Backend Setup:
 
 1. Install Dependencies: Ensure that you have Python 3.x installed. Then run the following command to install the necessary dependencies:
    bash
@@ -53,7 +45,7 @@ Backend Setup:
    python app.py
    The backend server will run at http://127.0.0.1:5000.
 
-Frontend Setup:
+## Frontend Setup:
 
 1. Navigate to the Frontend Directory:
    bash
