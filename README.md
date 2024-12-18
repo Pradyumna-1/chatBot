@@ -8,8 +8,6 @@ Currently, two official plugins are available:
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
 # E-Commerce Sales Chatbot
-![Chatbot Screenshot](https://raw.githubusercontent.com/your-username/your-repository-name/main/public/image.png)
-
 ![image alt](https://github.com/Pradyumna-1/chatBot/blob/a8d0b62eb415054e140de11fc7b6940d94af5c4b/image.png)
 ## Overview
 
