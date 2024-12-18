@@ -10,7 +10,7 @@ Currently, two official plugins are available:
 # E-Commerce Sales Chatbot
 ![Chatbot Screenshot](https://raw.githubusercontent.com/your-username/your-repository-name/main/public/image.png)
 
-https://github.com/Pradyumna-1/chatBot/blob/a8d0b62eb415054e140de11fc7b6940d94af5c4b/image.png
+![image alt](https://github.com/Pradyumna-1/chatBot/blob/a8d0b62eb415054e140de11fc7b6940d94af5c4b/image.png)
 ## Overview
 
 This project involves the development of an **E-commerce Sales Chatbot** designed to enhance the shopping experience by enabling users to search and explore products. The chatbot interacts with a backend server, processes user queries, and returns relevant product data from a mock inventory. The system is built to be scalable and interactive, focusing on improving the e-commerce user experience by making it more intuitive and responsive.
